@@ -1,0 +1,33 @@
+/* Center CSS Logic */
+
+/* Text Center Logic */
+h1, h2, h3, h4, h5, h6, p {
+    text-align: center;
+}
+
+
+/* To center any element just follow this logic */
+.block button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* **************************************************** */
+
+
+
+/* Font Style add */
+
+@font-face {
+    font-family: Roboto-regular;
+    src: url(font/Roboto-Regular.ttf);
+}
+
+div {
+    font-family: Roboto-regular;
+}
+
+
+/* **************************************************** */
